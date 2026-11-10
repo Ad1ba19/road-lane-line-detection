@@ -153,3 +153,11 @@ Built as part of the Udacity Self-Driving Car Engineer Nanodegree. Test images a
 ## License
 
 Released under the MIT License. See [LICENSE](LICENSE).
+
+## Author
+
+**Adiba Khan**
+
+Software Engineer | Backend Engineering, Data Engineering & AI Systems
+
+[LinkedIn](https://www.linkedin.com/in/adiba-khan-20ba57230/)
