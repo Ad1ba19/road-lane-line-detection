@@ -156,8 +156,4 @@ Released under the MIT License. See [LICENSE](LICENSE).
 
 ## Author
 
-**Adiba Khan**
-
-Software Engineer | Backend Engineering, Data Engineering & AI Systems
-
-[LinkedIn](https://www.linkedin.com/in/adiba-khan-20ba57230/)
+**Adiba Khan** · Software Engineer: Backend Engineering, Data Engineering & AI Systems · [LinkedIn](https://www.linkedin.com/in/adiba-khan-20ba57230/)
