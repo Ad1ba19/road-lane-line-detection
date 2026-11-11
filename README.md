@@ -1,5 +1,7 @@
 # Road Lane Line Detection
 
+**Computer Vision · AI project**
+
 A real-time computer vision pipeline that finds lane lines in road images and dashcam video using Python, OpenCV and NumPy. It handles white and yellow markings, solid and dashed lines, and shadowed road surfaces without any machine learning model or GPU.
 
 ![Lane detection on dashcam video](asset/final_output.gif)
